@@ -1,0 +1,20 @@
+.container{
+    display: block;
+    width: 600px;
+    height: 200px;
+    border: 1px solid blue;
+}
+
+div{
+    display: inline;
+    margin: 5px;
+    width: 40px;
+    height: 150px;
+    position:relative
+    
+}
+
+.right{
+    float: right;
+    background-color: aquamarine; 
+}
